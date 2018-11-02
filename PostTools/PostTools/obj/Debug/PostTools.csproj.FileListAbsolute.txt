@@ -1,0 +1,8 @@
+D:\Projects\PostTools\PostTools\obj\Debug\PostTools.csprojResolveAssemblyReference.cache
+D:\Projects\PostTools\PostTools\obj\Debug\PostTools.MainForm.resources
+D:\Projects\PostTools\PostTools\obj\Debug\PostTools.csproj.GenerateResource.Cache
+D:\Projects\PostTools\PostTools\bin\Debug\PostTools.exe.config
+D:\Projects\PostTools\PostTools\bin\Debug\PostTools.exe
+D:\Projects\PostTools\PostTools\bin\Debug\PostTools.pdb
+D:\Projects\PostTools\PostTools\obj\Debug\PostTools.exe
+D:\Projects\PostTools\PostTools\obj\Debug\PostTools.pdb
